@@ -13,7 +13,7 @@ author: 'Casper McFadden'
 # edit 'categories' in the front matter of every post to match this username
 username: joozo
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+location: 'Beijing, China'
 url: 'http://joozo.net/'
 image: 'assets/images/casper.png'
 
@@ -21,7 +21,7 @@ short_url: 'joozo.net/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: 'http://joozo.net'
+baseurl: 'http://joozo.net/'
 
 # Permalinks
 permalink: /:title
