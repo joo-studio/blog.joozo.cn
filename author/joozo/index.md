@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: author
 title: Author
 cover: 'assets/images/cover4.jpg'
 class: 'author-template'
