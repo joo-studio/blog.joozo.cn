@@ -13,3 +13,5 @@ This is a demo blog for Ghost, it contains dummy content which allows you to cli
 We use this for testing and for reference!
 
 If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+
+Oh, my God !

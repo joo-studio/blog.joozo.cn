@@ -24,8 +24,8 @@ disqus: joozonet
 baseurl: 'http://joozo.net/'
 
 # Permalinks
-permalink: /:title
-# permalink: /author/:username
+# permalink: /:title
+permalink: /author/:username
 # permalink: /tag/:tag
 
 
