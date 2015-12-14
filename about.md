@@ -4,6 +4,7 @@ title: About
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
+cover: 'http://wallpaperfx.com/uploads/wallpapers/2015/06/16/17071/preview_turquoise-bird.jpg'
 current: about
 ---
 
