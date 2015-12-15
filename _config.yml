@@ -1,8 +1,7 @@
 # Jykell configuration
 markdown: redcarpet
-highlighter: pygments
+highlight: pygments
 paginate: 5
-language: 'en-uk'
 
 # Website info
 name: 'Finding My Way of Joozo'
@@ -12,16 +11,16 @@ description: "I'm Joozo, Here is my new home. and you ?"
 author: 'Joozo Zhao'
 # edit 'categories' in the front matter of every post to match this username
 username: joozo
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+bio: '一个脱离了低级趣味的人，一个有素质的人，一个有利于人民的人，一个造福万代的人！'
 location: 'Beijing, China'
 url: 'http://joozo.net/'
 image: 'assets/images/casper.png'
 
-short_url: 'joozo.net/'
+short_url: 'joozo.net'
 google_analytics: UA-71355287-1
 disqus: joozonet
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: 'http://joozo.net/'
+baseurl: ''
 
 # Permalinks
 permalink: /:title
@@ -58,8 +57,7 @@ username: joozo
 repo: joozo.net
 branch: gh-pages
 relative_source: ../
-destination: ../jasper-pages/
-production_url:  https://joozo.net/
+production_url:  http://joozo.net/
 source_url:      https://github.com/joo-studio/joozo.net/
 
 exclude:

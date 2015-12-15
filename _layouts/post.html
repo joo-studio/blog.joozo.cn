@@ -34,13 +34,15 @@ class: 'post-template'
                 on
                 {% for tag in page.tags %}
                     {% if forloop.index == page.tags.size %}
-                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>
+                       <!-- <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a> -->
+                       <a href='javascript:;'>{{ tag | capitalize }}</a>
                     {% else %}
-                       <a href='{{ site.baseurl }}tag/{{ tag }}'>{{ tag | capitalize }}</a>,
+                       <a href='javascript:;'>{{ tag | capitalize }}</a>,
                     {% endif %}
                 {% endfor %}
                 {% endif %}
             </section>
+            <hr>
         </header>
 
         <section class="post-content">
@@ -120,7 +122,7 @@ class: 'post-template'
         <a class="read-next-story prev {% if page.previous.cover %}" style="background-image: url({{ site.baseurl }}{{ page.previous.cover }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.previous.url }}">
             <section class="post">
                 <h2>{{ page.previous.title }}</h2>
-                <p>{{ page.previous.content | truncatewords:15 }}</p>
+                <p>{{ page.previous.ex | truncatewords:15 }}</p>
             </section>
         </a>
     {% endif %}
