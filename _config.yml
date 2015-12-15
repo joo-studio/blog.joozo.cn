@@ -20,7 +20,7 @@ short_url: 'joozo.net'
 google_analytics: UA-71355287-1
 disqus: joozonet
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ''
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
