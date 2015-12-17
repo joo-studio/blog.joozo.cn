@@ -2,14 +2,16 @@
 layout: post
 cover: false
 title: I Have a Dream
-date:   1963-08-28 10:18:00
-tags: speeches
+date:  1990-01-03 10:18:00
+tags: life
 subclass: 'post tag-speeches'
-categories: 'casper'
+categories: 'dream'
 navigation: True
 logo: 'assets/images/ghost.png'
-cover: 'assets/images/cover4.jpg'
+cover: 'img/sex.jpg'
 ---
+
+My names is Yanbing Zhao.
 
 I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
 
@@ -101,7 +103,5 @@ And when this happens, and when we allow freedom ring, when we let it ring from 
 *Free at last! Free at last!*
 
 *Thank God Almighty, we are free at last!*
-
-By **Martin Luther King**
 
 An American pastor, activist, humanitarian. People know him for leading the African-American Civil Rights movement using nonviolent civil disobedience.
