@@ -2,10 +2,11 @@
 layout: post
 cover: false
 title: 情色如何推动互联网发展？
-date:   1863-11-19 10:18:00
+date:   2015-11-19 10:18:00
 tags: Erotic
 subclass: 'post tag-fiction'
 categories: 'Erotic'
+logo: 'assets/images/ghost.png'
 cover: 'img/Erotic.jpg'
 ---
 
