@@ -5,10 +5,10 @@ title: 情色如何推动互联网发展？
 date:   2015-11-19 10:18:00
 tags: Erotic
 categories: 'Erotic'
-logo: 'assets/images/ghost.png'
-cover: 'img/Erotic.jpg'
-subclass: 'post tag-speeches'
 navigation: True
+subclass: 'post tag-speeches'
+logo: 'assets/images/ghost.png'
+cover: 'img/Erotic.png'
 ---
 
 Reid Hoffman曾经说过，一款好的社交产品一定是能够迎合人类七宗罪（好色、暴食、贪婪、懒惰、愤怒、嫉妒、傲慢）中的其中之一的。其实，不只是社交产品，所有好的互联网产品都一定与人性有相通之处，七宗罪就是人性在宗教层面的一种表达。在人性这个复杂的范畴中，性无疑是其中极为重要的一个侧面，互联网及互联网产品的发展都不可能避开情色这个话题。
