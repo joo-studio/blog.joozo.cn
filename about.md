@@ -4,7 +4,7 @@ title: About
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
-cover: 'assets/images/001.jpg'
+cover: 'img/road.jpg'
 current: about
 ---
 
