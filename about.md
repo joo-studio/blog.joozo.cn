@@ -8,8 +8,6 @@ cover: 'assets/images/001.jpg'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+#这里有我的开始，我的继续，我的未来！
 
-We use this for testing and for reference!
-
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+1990年的冬天，大年刚刚过了三天，我出生在张家口阳原县一个叫东井集的小镇上。这里有的复杂的历史，有着浓烈的人文气息，没错，我就是出生在这个名不见经传的小镇上。
