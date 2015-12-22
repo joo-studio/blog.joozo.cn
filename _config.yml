@@ -5,13 +5,13 @@ paginate: 5
 
 # Website info
 name: 'Finding My Way of Joozo'
-description: "I'm Joozo, Here is my new home. and you ?"
+description: "I'm Joozo, Here's my new house. Welcome !"
 
 # Author's info
 author: 'Joozo Zhao'
 # edit 'categories' in the front matter of every post to match this username
 username: joozo
-bio: '一个脱离了低级趣味的人，一个有素质的人，一个有利于人民的人，一个造福万代的人！'
+bio: '一个脱离了低级趣味的人，一个有素质的人，一个将会有利于人民的人，一个将会造福万代的人！'
 location: 'Beijing, China'
 url: 'http://joozo.net/'
 image: 'assets/images/casper.png'
@@ -30,7 +30,6 @@ permalink: /:title
 
 # gems and other configs
 gems: [jekyll-paginate]
-exclude: [vendor]
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
