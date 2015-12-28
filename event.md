@@ -22,6 +22,6 @@ current: big-event
 
 * 公元 阳历 2015 年 07 月 29 日，我们结婚两周年了。今年没有出去，不晓得要去哪里，最后在 10 月 31 日 回了趟学校。旧貌犹存！记忆犹新！ [查看照片](http://two.zhaoyanbing.cn/)
 
-* 2015年12月12日，http://joozo.net新版上线，发布于gh-pages，采用Jekyll博客引擎
+* 2015年12月12日，[http://joozo.net](http://joozo.net) 新版上线，发布于gh-pages，采用Jekyll博客引擎
 
-* 2015年12月28日，http://aliccc.com新版上线，发布于gh-pages，采用Jekyll博客引擎，数据全部迁移完成。
+* 2015年12月28日，[http://aliccc.com](http://aliccc.com) 新版上线，发布于gh-pages，采用Jekyll博客引擎，数据全部迁移完成。
