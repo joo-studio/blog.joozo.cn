@@ -12,6 +12,8 @@ current: big-event
 > 我，性别：男，姓赵，名彦兵，英文名：Joozo,其意不详，自创词汇。
 > 大事件记录关于我的所有的较大的事件。
 
+* 公元 2015年12月29日，六年的同学 刘志秀 娶了 高中、大学的校友 张雅丽，祝福他们！
+
 * 公元 阳历 2015年12月28日，[http://aliccc.com](http://aliccc.com) 新版上线，发布于gh-pages，采用Jekyll博客引擎，数据全部迁移完成。
 
 * 公元 阳历 2015年12月12日，[http://joozo.net](http://joozo.net) 新版上线，发布于gh-pages，采用Jekyll博客引擎
@@ -19,6 +21,8 @@ current: big-event
 * 公元 阳历 2015 年 07 月 29 日，我们结婚两周年了。今年没有出去，不晓得要去哪里，最后在 10 月 31 日 回了趟学校。旧貌犹存！记忆犹新！ [查看照片](http://two.zhaoyanbing.cn/)
 
 * 公元 阳历 2014 年 07 月 29 日，我们结婚一周年了,我们去了秦皇岛玩。 [查看照片](http://one.zhaoyanbing.cn/)
+
+* 公元 阳历 2013 年 12 月 29 日，高中同学 任利峰 娶了 东井集的媳妇 刘洋。 [查看婚纱照](http://wedding.zhaoyanbing.cn/)
 
 * 公元 阳历 2013 年 07 月 29 日，我们结婚了。 [查看婚纱照](http://wedding.zhaoyanbing.cn/)
 
