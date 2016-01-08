@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "我的个人微信公众号： joozoplus"
-cover: 'img/con/bi.jpg'
+class: 'post'
+navigation: True
+logo: 'assets/images/ghost.png'
+cover: 'img/wallhaven-113384.png'
+current: qrcode
 ---
 
 -----------
