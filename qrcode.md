@@ -1,6 +1,10 @@
 ---
 layout: page
 title: "我的个人微信公众号： joozoplus"
+class: 'post'
+navigation: True
+logo: 'assets/images/ghost.png'
+current: qrcode
 ---
 
 -----------
