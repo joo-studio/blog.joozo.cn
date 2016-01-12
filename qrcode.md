@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "我的个人微信公众号： joozoplus"
 class: 'post'
 navigation: True
