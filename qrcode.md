@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "我的个人微信公众号： joozoplus"
+title: "我的个人微信公众号： ID: joozoplus"
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
