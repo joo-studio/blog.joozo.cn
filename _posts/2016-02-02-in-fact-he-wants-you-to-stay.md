@@ -45,5 +45,5 @@ logo: 'assets/images/ghost.png'
 希望你拥有更多的快乐
 最后，只希望你可以开开心心的……
 
-![one]({ site.baseurl }/img/con/000001.png)
-![two]({ site.baseurl }/img/con/000002.png)
+![one](img/con/000001.png)
+![two](img/con/000002.png)
