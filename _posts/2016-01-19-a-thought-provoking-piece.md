@@ -4,7 +4,7 @@ subclass: 'post'
 title: "一个另我深思的段子"
 categories: 生活
 tags: 段子
-cover: 'img/two.jpg'
+cover: 'img/two.png'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
