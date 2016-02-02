@@ -4,7 +4,7 @@ subclass: 'post'
 title: "其实他想让你留下来"
 categories: 生活
 tags: 情书
-cover: 'img/con/000001.png'
+cover: 'img/con/two.png'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
