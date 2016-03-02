@@ -8,6 +8,7 @@ cover: 'img/two.png'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
+《转》
 
 一位优秀的商人杰克，有一天他和儿子说。
 

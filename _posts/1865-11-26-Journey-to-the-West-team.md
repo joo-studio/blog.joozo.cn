@@ -10,6 +10,7 @@ navigation: True
 logo: 'assets/images/ghost.png'
 cover: 'img/road.jpg'
 ---
+《转》
 
 提问:　西游记中为了节约成本，唐太宗需要在这个团队里，裁掉一名队员，该裁掉哪一位，为什么?现在决策权交给你!
 
