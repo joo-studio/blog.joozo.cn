@@ -4,13 +4,19 @@ title: 大事件
 class: 'post'
 navigation: True
 logo: 'assets/images/ghost.png'
-cover: 'img/wallhaven-113384.png'
+cover: 'assets/images/cover7.jpg'
 current: big-event
 ---
 
 
 > 我，性别：男，姓赵，名彦兵，英文名：Joozo,其意不详，自创词汇
 > 大事件记录关于我的、我的朋友的、所有的较大的事件
+
+* 2016年12月10日，第一套房子（张家口）京润现代城6号院 收房拿到了钥匙
+
+* 2016年09月02日，购入人生第一套房子（张家口）京润现代城
+
+* 2016年07月29日，我们结婚三周年了！
 
 * 2016年03月21日，入职微网通联
 
