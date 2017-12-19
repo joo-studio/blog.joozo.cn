@@ -4,7 +4,7 @@ subclass: 'post'
 title: "一一你好，多多指教 ~"
 categories: 一一
 tags: 一一
-cover: 'img/2017/11/02.jpeg'
+cover: 'img/road.jpg'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
