@@ -4,14 +4,14 @@ highlight: pygments
 paginate: 5
 
 # Website info
-name: 'Looking for the real Joozo'
-description: "I'm Joozo, here is my empire, welcome ！"
+name: '欢迎你的来访'
+description: "我是一樨爸爸，一直在努力做一个可以持续是一一榜样的人！"
 
 # Author's info
 author: 'Joozo Zhao'
 # edit 'categories' in the front matter of every post to match this username
 username: joozo
-bio: '一个脱离了低级趣味的人，一个有素质的人，一个将会有利于人民的人，一个将会造福万代的人！'
+bio: '一个脱离低级趣味的人，一个太直的人，一个不会溜须拍马的人，一个过于端着的人，一个感恩记恩的人，一个有利于人民的人！'
 location: 'Beijing, China'
 url: 'http://joozo.net/'
 image: 'assets/images/casper.png'
